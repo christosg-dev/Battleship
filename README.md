@@ -30,5 +30,4 @@ It comes with a UI built in Java Swing.
 
 **License:** This project is licensed under the Apache 2.0 license
 
-**Author:** 
-Christos Gunopulos 
+
