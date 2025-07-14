@@ -1,5 +1,5 @@
 This is a Java-based Battleship game where a human player competes against the computer. 
-It comes with a UI built in Java Swing.
+It comes with a GUI built in Java Swing.
 
 **Features**
 - Interactive 10x10 Battleship grid
