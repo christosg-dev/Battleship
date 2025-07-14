@@ -28,7 +28,7 @@ It comes with a UI built in Java Swing.
 - Swing for GUI
 - JOptionPane for dialogs
 
-**License:** This project is licensed under the Apache 2.0
+**License:** This project is licensed under the Apache 2.0 license
 
 **Author:** 
 Christos Gunopulos 
